@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor De Medidas</string>
+    <string name="_btn_limpar">Limpar</string>
+    <string name="btn_converter">Converter</string>
+    <string name="txt_insira_o_valor_a_ser_convertido">Insira o valor a ser convertido</string>
+    <string name="btn_button">Button</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="txt_metros">Metros</string>
+</resources>
